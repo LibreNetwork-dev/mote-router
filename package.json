@@ -1,0 +1,15 @@
+{
+  "name": "mote-router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx rspack build"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@rspack/cli": "^1.4.5"
+  }
+}
